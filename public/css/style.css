@@ -1,0 +1,63 @@
+/* FEED IMAGES*/
+.img-fluid{
+    max-height: 400px;
+    width: auto;
+}
+/* HEADER TITLE */
+.header-title{
+    font-family:'Titan One', Arial, Helvetica, sans-serif;
+}
+/* POST CARD */
+.col-6{
+    width: 100%;
+    max-width: 480px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin: 16px;
+}
+
+/* POST TITLE */
+.col-6 h2{
+    font-size: 1.8rem;
+    text-align: center;
+}
+/* POST IMG */
+.img-post{
+    max-height: 700px;
+    max-width: auto;
+}
+/* POST CAPTION */
+.col-3{
+    display:flex;
+    font-size: 1.8rem;
+    align-items: center;
+}
+
+/* LIST OF COMMENTS */
+.mt-5 h2{
+    font-size: 1.8rem;
+}
+.comments-list{
+    list-style-type: none;
+    margin: 0rem;
+    padding-bottom: 2rem;
+    width: 70%;
+}
+.comments-individual{
+    border: 2px solid rgb(21, 48, 54);
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    border-bottom: 1px solid #e5e7eb;
+}
+.comment-card{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* LIKES */
+.post-likes h3{
+    font-size: 1.5rem;
+}
+
