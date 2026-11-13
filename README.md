@@ -55,14 +55,16 @@ This project is a starter social media application. It gives users a complete ac
 2. Navigate to the project:
    ```bash
    cd starter-social-media-app
+   ```
 
-3. Install dependencies 
+3. Install dependencies: 
   ```bash
   npm install
+  ```
 
 4. Create a `.env` file in config folder and add the following as `key = value`:
   ```bash
-  - PORT = (can be any port; for example: 3000)
+  - PORT = `3000 or can be any port` 
   - DB_STRING = `your database URI`
   - CLOUD_NAME = `your cloudinary cloud name`
   - API_KEY = `your cloudinary api key`
