@@ -61,6 +61,7 @@ This project is a starter social media application. It gives users a complete ac
   npm install
 
 4. Create a `.env` file in config folder and add the following as `key = value`:
+  ```bash
   - PORT = (can be any port; for example: 3000)
   - DB_STRING = `your database URI`
   - CLOUD_NAME = `your cloudinary cloud name`
