@@ -80,3 +80,5 @@ This project is a starter social media application. It gives users a complete ac
   
 6. Make it your own!
   - Consider changing the styling by removing bootstrap, using a different framework, or writing your own CSS. 
+
+## Happy Coding!
