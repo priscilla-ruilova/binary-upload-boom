@@ -62,13 +62,13 @@ This project is a starter social media application. It gives users a complete ac
   npm install
   ```
 
-4. Create a `.env` file in config folder and add the following as `key = value`:
+4. Create a `.env` file in config folder and add the following as `key = value`; no quotes needed!:
   ```bash
-  - PORT = `3000 or can be any port` 
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
+  - PORT = 3000 or can be any port 
+  - DB_STRING = your database URI
+  - CLOUD_NAME = your cloudinary cloud name
+  - API_KEY = your cloudinary api key
+  - API_SECRET = your cloudinary api secret
    ```
 
 5. Run the app!
