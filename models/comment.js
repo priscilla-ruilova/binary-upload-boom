@@ -20,3 +20,4 @@ const CommentSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model("Comment", CommentSchema);
+// added Comment.js to models v comment.js
