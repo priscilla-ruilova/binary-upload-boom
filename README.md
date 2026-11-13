@@ -7,7 +7,7 @@ A starter full-stack social media app where users can sign up, share photo posts
 This project is a starter social media application. It gives users a complete account flow (sign up, log in, log out), a feed of posts from everyone on the site, a personal profile page showing only their own posts, and the ability to create, like, and delete posts with an uploaded image. Each post has its own page where comments can be added. It was built as a learning project, forked from [100devs/binary-upload-boom](https://github.com/100devs/binary-upload-boom) to practice server-side rendering, authentication, database models, and file uploads.
 
 ### Live Link: [Click here!](https://starter-social-media-app-3.onrender.com/)
-  - The link is also in the About section of this repo to the right =>
+  - The link is also in the About section of this repo to the right.
 
 ![screenshot of profile page](public/imgs/profile.png)
 ![screenshot of individual post](/public/imgs/individual-post.png)
